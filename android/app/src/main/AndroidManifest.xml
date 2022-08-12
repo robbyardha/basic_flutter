@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bwa_basic">
    <application
-        android:label="bwa_basic"
+        android:label="Teluk Penyu"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
